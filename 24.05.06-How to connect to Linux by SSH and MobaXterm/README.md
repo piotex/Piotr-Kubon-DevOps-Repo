@@ -3,55 +3,33 @@
 https://youtube.com/shorts/deORbkJX-IM?feature=share
 
 ```
-How to set up Centos 9 in VirtualBox
+How to connect to Linux by SSH and MobaXterm
 
-First, we need to create our virtual machine and allocate resources to it
+In windows search type CMD and press Enter
 
-to do this, we click
+now go to your virtual machine
 
-VirtualBox
+type `ifconfig` and save ip address for later
 
-New
+go back to your CMD and type ssh name of user {at} ip address
 
-Insert the Name of the machine
+press Enter 
 
-Select the ISO image - you can download it from the Internet
+type user password 
 
-Type
+and you're logged in
 
-Version
+if you want to save session 
 
-and Skip Unattended Installation
+open MobaXterm
 
-allocate RAM and CPU
+click Sessions
 
-same with disk size
+SSH
 
-and click finish
+insert host ip and username
 
-now we can start our machine by clicking start
+click ok
 
----
-
-So let’s setup our Centos machine
-
-select Install Centos 9
-
-Now
-
-in Software section select Server
-
-In System select disk by clicking on it two times
-
-insert root password 
-
-and create admin account
-
-Click begin installation
-
-few hours later
-
-click reboot
-
-and Thats it :D
+and now you can easy connect by double click on this session
 ```
