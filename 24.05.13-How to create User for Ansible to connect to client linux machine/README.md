@@ -1,5 +1,7 @@
 # How to create User for Ansible to connect to client linux machine
 
+https://youtube.com/shorts/c-VxmKw6I78?feature=share
+
 On Client
 ```
 sudo useradd ansible_user
