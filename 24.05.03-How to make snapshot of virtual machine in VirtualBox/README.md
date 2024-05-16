@@ -1,0 +1,1 @@
+# How to make snapshot of virtual machine in VirtualBox

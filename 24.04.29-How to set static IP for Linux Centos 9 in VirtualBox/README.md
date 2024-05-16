@@ -1,0 +1,1 @@
+# How to set static IP for Linux Centos 9 in VirtualBox
