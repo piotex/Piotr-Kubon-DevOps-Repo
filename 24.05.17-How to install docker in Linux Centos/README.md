@@ -1,5 +1,7 @@
 # How to install docker in Linux Centos
 
+https://youtube.com/shorts/xtJgftLzGEM?si=INEzyJ_vnZhGaQtN
+
 ```
  sudo yum remove docker \
                   docker-client \
