@@ -2,6 +2,7 @@
 
 https://youtube.com/shorts/hUypqYwFkKY
 https://youtube.com/shorts/hUypqYwFkKY?feature=share
+https://youtube.com/shorts/hUypqYwFkKY?si=GsWTXBleusQu_oP5
 
 ```
  sudo yum update -y
