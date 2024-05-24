@@ -1,5 +1,7 @@
 # How to create internal docker network and add container to it
 
+https://youtube.com/shorts/HrrwXxuV-1o?si=WexACaNElgIxETSM
+
 ```
 docker run --name my_nginx_1 -itd -p 8081:80 nginx  
 docker run --name my_nginx_2 -itd -p 8082:80 nginx
