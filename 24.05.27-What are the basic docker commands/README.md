@@ -1,4 +1,4 @@
-# Linux-What are the basic docker commands
+# What are the basic docker commands
 
 https://youtube.com/shorts/ErOBZlVgnPU?si=yensXT4byo4Vizgj
 
